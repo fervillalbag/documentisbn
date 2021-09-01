@@ -1,0 +1,114 @@
+{
+  "data": {
+    "weeks": [
+      {
+        "number": 1,
+        "body": [
+          {
+            "day": "lunes",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "martes",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "miercoles",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "jueves",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "viernes",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "sábado",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          },
+          {
+            "day": "domingo",
+            "breakfast": "blablabla1",
+            "launch": "blablabla1",
+            "afternoonSnack": "blablabla1",
+            "dinner": "blablabla1"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "body": [
+          {
+            "day": "lunes",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "martes",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "miercoles",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "jueves",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "viernes",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "sábado",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          },
+          {
+            "day": "domingo",
+            "breakfast": "blablabla2",
+            "launch": "blablabla2",
+            "afternoonSnack": "blablabla2",
+            "dinner": "blablabla2"
+          }
+        ]
+      }
+    ]
+  }
+}
