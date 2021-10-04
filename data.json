@@ -10,24 +10,28 @@
             "number": 1,
             "body": [
               {
-                "day": "lunes",
+                "day": "Lunes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -35,24 +39,28 @@
                 ]
               },
               {
-                "day": "martes",
+                "day": "Martes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -60,24 +68,28 @@
                 ]
               },
               {
-                "day": "miercoles",
+                "day": "Miercoles",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -85,24 +97,28 @@
                 ]
               },
               {
-                "day": "jueves",
+                "day": "Jueves",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -110,24 +126,28 @@
                 ]
               },
               {
-                "day": "viernes",
+                "day": "Viernes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -135,24 +155,28 @@
                 ]
               },
               {
-                "day": "sábado",
+                "day": "Sábado",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -160,24 +184,28 @@
                 ]
               },
               {
-                "day": "domingo",
+                "day": "Domingo",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
@@ -190,24 +218,28 @@
             "number": 2,
             "body": [
               {
-                "day": "lunes",
+                "day": "Lunes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -215,24 +247,28 @@
                 ]
               },
               {
-                "day": "martes",
+                "day": "Martes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -240,24 +276,28 @@
                 ]
               },
               {
-                "day": "miercoles",
+                "day": "Miercoles",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -265,24 +305,28 @@
                 ]
               },
               {
-                "day": "jueves",
+                "day": "Jueves",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -290,24 +334,28 @@
                 ]
               },
               {
-                "day": "viernes",
+                "day": "Viernes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -315,24 +363,28 @@
                 ]
               },
               {
-                "day": "sábado",
+                "day": "Sábado",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -340,24 +392,28 @@
                 ]
               },
               {
-                "day": "domingo",
+                "day": "Domingo",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
@@ -378,24 +434,28 @@
             "number": 1,
             "body": [
               {
-                "day": "lunes",
+                "day": "Lunes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -403,24 +463,28 @@
                 ]
               },
               {
-                "day": "martes",
+                "day": "Martes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -428,24 +492,28 @@
                 ]
               },
               {
-                "day": "miercoles",
+                "day": "Miercoles",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -453,24 +521,28 @@
                 ]
               },
               {
-                "day": "jueves",
+                "day": "Jueves",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -478,24 +550,28 @@
                 ]
               },
               {
-                "day": "viernes",
+                "day": "Viernes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -503,24 +579,28 @@
                 ]
               },
               {
-                "day": "sábado",
+                "day": "Sábado",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -528,24 +608,28 @@
                 ]
               },
               {
-                "day": "domingo",
+                "day": "Domingo",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
@@ -558,24 +642,28 @@
             "number": 2,
             "body": [
               {
-                "day": "lunes",
+                "day": "Lunes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -583,24 +671,28 @@
                 ]
               },
               {
-                "day": "martes",
+                "day": "Martes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -608,24 +700,28 @@
                 ]
               },
               {
-                "day": "miercoles",
+                "day": "Miercoles",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -633,24 +729,28 @@
                 ]
               },
               {
-                "day": "jueves",
+                "day": "Jueves",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -658,24 +758,28 @@
                 ]
               },
               {
-                "day": "viernes",
+                "day": "Viernes",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -683,24 +787,28 @@
                 ]
               },
               {
-                "day": "sábado",
+                "day": "Sábado",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
@@ -708,24 +816,28 @@
                 ]
               },
               {
-                "day": "domingo",
+                "day": "Domingo",
                 "foods": [
                   {
+                    "type": "Desayuno",
                     "id": "101",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Almuerzo",
                     "id": "102",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Merienda",
                     "id": "103",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
+                    "type": "Cena",
                     "id": "104",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
