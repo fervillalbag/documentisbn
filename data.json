@@ -1,335 +1,369 @@
 {
   "data": {
-    "weeks": [
+    "diets": [
       {
-        "number": 1,
-        "body": [
+        "id": "1",
+        "name": "hipercalorica",
+        "weeks": [
           {
-            "day": "lunes",
-            "breakfast": {
-              "id": "1",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "1",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "1",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "1",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
+            "number": 1,
+            "body": [
+              {
+                "day": "lunes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "martes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "miercoles",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "jueves",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "viernes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "sábado",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              },
+              {
+                "day": "domingo",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla1",
+                    "link": "urlrecipe1"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "day": "martes",
-            "breakfast": {
-              "id": "2",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "2",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "2",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "2",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "miercoles",
-            "breakfast": {
-              "id": "3",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "3",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "3",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "3",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "jueves",
-            "breakfast": {
-              "id": "4",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "4",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "4",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "4",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "viernes",
-            "breakfast": {
-              "id": "5",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "5",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "5",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "5",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "sábado",
-            "breakfast": {
-              "id": "6",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "6",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "6",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "6",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "domingo",
-            "breakfast": {
-              "id": "7",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "7",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "7",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "7",
-              "name": "blablabla1",
-              "link": "urlrecipe"
-            }
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "body": [
-          {
-            "day": "lunes",
-            "breakfast": {
-              "id": "1",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "1",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "1",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "1",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "martes",
-            "breakfast": {
-              "id": "2",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "2",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "2",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "2",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "miercoles",
-            "breakfast": {
-              "id": "3",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "3",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "3",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "3",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "jueves",
-            "breakfast": {
-              "id": "4",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "4",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "4",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "4",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "viernes",
-            "breakfast": {
-              "id": "5",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "5",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "5",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "5",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "sábado",
-            "breakfast": {
-              "id": "6",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "6",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "6",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "6",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
-          },
-          {
-            "day": "domingo",
-            "breakfast": {
-              "id": "7",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "launch": {
-              "id": "7",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "afternoonSnack": {
-              "id": "7",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            },
-            "dinner": {
-              "id": "7",
-              "name": "blablabla2",
-              "link": "urlrecipe"
-            }
+            "number": 2,
+            "body": [
+              {
+                "day": "lunes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "martes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "miercoles",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "jueves",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "viernes",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "sábado",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              },
+              {
+                "day": "domingo",
+                "foods": [
+                  {
+                    "id": "101",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "102",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "103",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  },
+                  {
+                    "id": "104",
+                    "name": "blablabla2",
+                    "link": "urlrecipe2"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
