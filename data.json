@@ -5,6 +5,7 @@
         "id": "1",
         "name": "Dieta Hipercalórica",
         "slug": "hipercalorica",
+        "recomendation": "Recomendación de la dieta hipercalórica",
         "weeks": [
           {
             "number": 1,
@@ -43,25 +44,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "105",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "106",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "107",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "108",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -72,25 +73,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "109",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "110",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "111",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "112",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -101,25 +102,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "113",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "114",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "115",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "116",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -130,25 +131,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "117",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "118",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "119",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "120",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -159,25 +160,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "121",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "122",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "123",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "124",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -188,25 +189,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "125",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "126",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "127",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "128",
                     "name": "blablabla1",
                     "link": "urlrecipe1"
                   }
@@ -222,25 +223,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "129",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "130",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "131",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "132",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -251,25 +252,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "133",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "134",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "135",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "136",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -280,25 +281,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "137",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "138",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "139",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "140",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -309,25 +310,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "141",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "142",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "143",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "144",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -338,25 +339,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "145",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "146",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "147",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "148",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -367,25 +368,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "149",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "150",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "151",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "152",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -396,25 +397,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "153",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "154",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "155",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "156",
                     "name": "blablabla2",
                     "link": "urlrecipe2"
                   }
@@ -429,6 +430,7 @@
         "id": "2",
         "name": "Dieta Hipocalórica",
         "slug": "hipocalorica",
+        "recomendation": "Recomendación de la dieta hipocalórica",
         "weeks": [
           {
             "number": 1,
@@ -438,25 +440,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "501",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "502",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "503",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "504",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -467,25 +469,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "505",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "506",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "507",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "508",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -496,25 +498,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "509",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "510",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "511",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "512",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -525,25 +527,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "513",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "514",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "515",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "516",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -554,25 +556,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "517",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "518",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "519",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "520",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -583,25 +585,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "521",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "522",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "523",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "524",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -612,25 +614,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "525",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "526",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "527",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "528",
                     "name": "blablabla3",
                     "link": "urlrecipe3"
                   }
@@ -646,25 +648,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "529",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "530",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "531",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "532",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -675,25 +677,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "533",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "534",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "535",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "536",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -704,25 +706,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "537",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "538",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "539",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "540",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -733,25 +735,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "541",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "542",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "543",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "544",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -762,25 +764,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "545",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "546",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "547",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "548",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -791,25 +793,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "549",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "550",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "551",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "552",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
@@ -820,25 +822,25 @@
                 "foods": [
                   {
                     "type": "Desayuno",
-                    "id": "101",
+                    "id": "553",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Almuerzo",
-                    "id": "102",
+                    "id": "554",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Merienda",
-                    "id": "103",
+                    "id": "555",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   },
                   {
                     "type": "Cena",
-                    "id": "104",
+                    "id": "556",
                     "name": "blablabla4",
                     "link": "urlrecipe4"
                   }
